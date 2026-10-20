@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+~$*
+.vscode/
+
+# Unfinished incidents stay local until complete
+incidents/parked-*/
+
+# Raw exports and private notes never go public
+*.csv
+*PRIVATE*
